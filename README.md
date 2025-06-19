@@ -14,7 +14,7 @@ This project focuses on analyzing health and demographic factors that influence 
 
 - Source : [Kaggle](https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health)
 - Row : 1,340
-- Columns : index, PatientID ,age, gender, bmi, bloodpressure, diabetic, children, smoker, region, claim
+- Columns : 11
 
 ## Tools Used
 
